@@ -1,4 +1,4 @@
-# Pacvue Agency Skills
+# Pacvue Agency Skills (not official from Pacvue)
 
 Claude Code skills powered by the Pacvue MCP API for agency clients.
 
